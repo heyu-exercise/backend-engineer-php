@@ -12,12 +12,12 @@
   - 請使用Yii/Laravel/Hyperf三種擇一框架來完成
   - 請使用Service和Repository，並使用依賴注入
   - 需考慮迸發請求的情形
-  - 請使用Docker環境運行
+  - 請使用Docker環境運行 (加分項)
 
 ## 請包含以下檔案
   - README.md
-  - docker-compose.yml
-  - Dockerfile
+  - docker-compose.yml (加分項-使用Laradock則不用包含)
+  - Dockerfile (加分項-使用Laradock則不用包含)
 
 ## 請實作unit test
   - 請說明運行方法
